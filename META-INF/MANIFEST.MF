@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ db4o-8.0.249.16098-all-java5.jar jcalendar.jar
+Class-Path: .
+Rsrc-Main-Class: businessLogic.BusinessLogicServer
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
